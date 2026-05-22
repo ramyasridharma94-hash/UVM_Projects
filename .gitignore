@@ -1,0 +1,29 @@
+# VCS simulation artifacts
+simv
+simv.daidir/
+csrc/
+*.log
+*.vpd
+*.vdb
+DVEfiles/
+ucli.key
+novas.conf
+novas.rc
+verdiLog/
+64/
+
+# Questa artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+
+# Xcelium artifacts
+xcelium.d/
+*.shm/
+
+# Temp / editor
+*.swp
+*.swo
+*~
+.DS_Store
